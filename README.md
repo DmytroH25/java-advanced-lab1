@@ -19,7 +19,7 @@ The program demonstrates the use of Java Streams, custom collectors, and basic s
 ## Project Structure
 - `Car.java`: Defines the `Car` class, which includes attributes and a method for generating random car objects.
 - `Main.java`: The main application logic, which generates, filters, groups, and analyzes the car data.
-- `Statistics.java`: A helper class that holds statistical information about car prices.
+- `Statistics.java`: А helper class that holds statistical information about car prices.
 
 ## Build and Run Instructions
 
